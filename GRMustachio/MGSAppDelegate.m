@@ -2,8 +2,8 @@
 //  MGSAppDelegate.m
 //  GRMustachio
 //
-//  Created by Jonathan on 22/01/2013.
-//  Copyright (c) 2013 Mugginsoft LLP. All rights reserved.
+//  Created by Mugginsoft on 22/01/2013.
+//  MIT Licence
 //
 
 #import "MGSAppDelegate.h"
